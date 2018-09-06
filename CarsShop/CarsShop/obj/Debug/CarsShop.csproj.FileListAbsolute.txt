@@ -1,0 +1,17 @@
+F:\MVC\CarsShop\CarsShop\bin\CarsShop.dll.config
+F:\MVC\CarsShop\CarsShop\bin\CarsShop.dll
+F:\MVC\CarsShop\CarsShop\bin\CarsShop.pdb
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Helpers.dll
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Mvc.dll
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Razor.dll
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Webpages.Deployment.dll
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Webpages.dll
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Webpages.Razor.dll
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Razor.xml
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Webpages.xml
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Webpages.Deployment.xml
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Webpages.Razor.xml
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Helpers.xml
+F:\MVC\CarsShop\CarsShop\bin\System.Web.Mvc.xml
+F:\MVC\CarsShop\CarsShop\obj\Debug\CarsShop.dll
+F:\MVC\CarsShop\CarsShop\obj\Debug\CarsShop.pdb
